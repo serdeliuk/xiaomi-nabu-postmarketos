@@ -14,7 +14,7 @@ Use this thread for comments [XDA PostmarketOS Linux boot on Xiaomi Pad 5](https
 
 
 <br><br>
-Release page [PostmarketOS Xiaomi-nabu](https://wiki.postmarketos.org/wiki/Xiaomi-nabu//)
+Release page [PostmarketOS Xiaomi-nabu](https://wiki.postmarketos.org/wiki/Xiaomi-nabu)
 <br><br>
 
 I hope that will help in your future projects<br><br>
