@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
+
 # xiaomi-nabu-postmarketos
 Porting PostmarketOS to Xiaomi Pad 5 (nabu)
 
@@ -19,5 +21,3 @@ Release page [PostmarketOS Xiaomi-nabu](https://wiki.postmarketos.org/wiki/Xiaom
 
 I hope that will help in your future projects<br><br>
 Have fun!
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
