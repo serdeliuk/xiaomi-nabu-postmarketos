@@ -1,11 +1,9 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
-
 # xiaomi-nabu-postmarketos
-Porting PostmarketOS to Xiaomi Pad 5 (nabu)
+PostmarketOS preview images with kernel 6.1.10 for Xiaomi Pad 5 (nabu)
 
-- Mainline kernel 5.19.0-RC04
-- Working Wifi
-and more
+[![download](https://img.shields.io/github/downloads/serdeliuk/xiaomi-nabu-postmarketos/total)](https://github.com/serdeliuk/xiaomi-nabu-postmarketos/releases/download/6.1.10/xiaomi-nabu-pmos-preview.6.1.10.tar.gz)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/serdeliuk) any donation is highly appreciated!
 
 ---
 <img src="https://github.com/serdeliuk/xiaomi-nabu-postmarketos/blob/main/nabu.wifi.ok.jpg" width="30%" height="30%">
